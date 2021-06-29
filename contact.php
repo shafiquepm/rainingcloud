@@ -18,7 +18,7 @@
 
     <!-- begin header -->
     <header>
-      <div id="logo"><h1>PHOTO<a href="#">ART</a>WORK 2_reverse</h1></div>
+      <div id="logo"><h1>Ayra<a href="#">Wonder</a>World</h1></div>
       <nav>
         <ul class="sf-menu" id="nav">
           <li><a href="index.html">home</a></li>
@@ -106,7 +106,7 @@
 
     <!-- begin footer -->
     <footer>
-      <p>Copyright &copy; 2012 PhotoArtWork2_reverse. All Rights Reserved. <a href="http://www.css3templates.co.uk">Design from css3templates.co.uk</a>.</p>
+      <p>Copyright &copy; 2021 RainingCloud_reverse. All Rights Reserved. <a href="http://www.css3templates.co.uk">Design from Ayra & Aiza</a>.</p>
       <p><img src="images/twitter.png" alt="twitter" />&nbsp;<img src="images/facebook.png" alt="facebook" />&nbsp;<img src="images/rss.png" alt="rss" /></p>
     </footer>
     <!-- end footer -->
